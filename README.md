@@ -1,2 +1,2 @@
 # lab7
-Style an HTML Table
+Style a HTML Table
